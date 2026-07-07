@@ -93,46 +93,35 @@ Meet **Sarah**, a busy professional and avid reader who struggles to find time t
 - **React.js** – Fast, component-based frontend UI.
 - **Node.js** – Scalable server runtime for non-blocking operations.
 
----
 
-## 👨‍💻 Project Contributors
-|Name|Role|
-|----|-----|
-|Baswa Bhavana Shanmukhi|Team Lead|
-|Kankipati Sai Venkat|Developer|
-|Vennela Gogu|Developer|
-|Jorungu Gopal Rao|Developer|
-
----
 
 📖 **Happy Reading with BookNest!** 📖
 
 ## 🌐 Live Preview
-https://booknest-8-60yz.onrender.com
+
+https://bookstoreapp-frontend-0va9.onrender.com
+
 ## Admin login username and password
-user name-->saivenkat<br>
-password--->saivenkaT123
+
+user name-->raja<br>
+password--->123456
+
 ## video demo
-https://drive.google.com/file/d/1VG3AOy2ZBg7Lzk7FhR1-VGU6QXhqL7Za/view?usp=drive_link
+
+https://drive.google.com/file/d/156P415Q4cFA2mAacsrsF_eQXu-_J3zxH/view?usp=sharing
 
 ## 📸 Screenshots
-![Screenshot 2025-06-23 085137](https://github.com/user-attachments/assets/665a8ace-ad2b-413d-9e2a-72a04b1847c3)![Screenshot 2025-06-23 085415](https://github.com/user-attachments/assets/211510f3-7094-48da-a8fb-fd9751032e79)
 
-![Screenshot 2025-06-23 085428](https://github.com/user-attachments/assets/ee68962b-840b-43cf-bf49-b533948a6bde)
+<img width="1599" height="706" alt="Screenshot 2026-07-06 123836" src="https://github.com/user-attachments/assets/751f5688-7291-4c5f-b029-5fededd9da4c" />
+<img width="1599" height="899" alt="Screenshot 2026-07-06 123849" src="https://github.com/user-attachments/assets/702057fb-d1fa-448c-860e-670baf3fda80" />
+<img width="1599" height="777" alt="Screenshot 2026-07-06 123919" src="https://github.com/user-attachments/assets/6da47eec-695a-42eb-835c-503132e52586" />
+<img width="1599" height="716" alt="Screenshot 2026-07-06 123956" src="https://github.com/user-attachments/assets/18c69e8f-3ec9-47e3-9ca9-8dadd07c583f" />
+<img width="1599" height="696" alt="Screenshot 2026-07-06 124040" src="https://github.com/user-attachments/assets/b1f3640d-2b99-4f1e-8386-4f15f07afb83" />
 
+<img width="1599" height="679" alt="Screenshot 2026-07-06 124106" src="https://github.com/user-attachments/assets/1c4dede9-d749-42ba-b937-63b1cc192487" />
 
-![Screenshot 2025-06-23 085455](https://github.com/user-attachments/assets/59028959-eaf6-482b-a337-d049dd6a4c16)
-
-
-![Screenshot 2025-06-23 085521](https://github.com/user-attachments/assets/19d9d6a6-725e-4ec8-9445-cda47cb7e8e3)
-![Screenshot 2025-06-23 085537](https://github.com/user-attachments/assets/6447a7df-de1d-4d83-8e4b-121d8023b037)
-![Screenshot 2025-06-23 085554](https://github.com/user-attachments/assets/a67bd24a-1295-41e2-9bab-bfee30b155f9)
-![Screenshot 2025-06-23 085612](https://github.com/user-attachments/assets/da1eb9c2-1e67-48f2-8775-e0e74cd0892f)![Screenshot 2025-06-23 085642](https://github.com/user-attachments/assets/d7fbc470-f88d-42de-9e5f-5815bf7ecece)
-![Screenshot 2025-06-23 085701](https://github.com/user-attachments/assets/0e6faa4a-a87b-46ac-9a79-83d9f173253a)
-![Screenshot 2025-06-23 085723](https://github.com/user-attachments/assets/f0625e28-e38b-4858-80b1-d922bfb73b58)
-
-![Screenshot 2025-06-23 085738](https://github.com/user-attachments/assets/2fece83a-e73a-4e74-86c2-8e733fb4dae9)
-![Screenshot 2025-06-23 085753](https://github.com/user-attachments/assets/78d2e0ec-f376-4e51-ad88-f8c4ad6619c6)
+<img width="1580" height="699" alt="Screenshot 2026-07-06 124255" src="https://github.com/user-attachments/assets/e1070e4f-c379-4462-b524-58f740821e7b" />
+<img width="1599" height="583" alt="Screenshot 2026-07-06 124333" src="https://github.com/user-attachments/assets/653451ee-b830-4525-b51d-cfd3a1d7fb20" />
 
 ## 📦 Installation & Setup
 
