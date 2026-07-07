@@ -1,0 +1,26 @@
+# dependencies
+/node_modules
+
+# build output
+/build
+
+# testing
+/coverage
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# log files
+npm-debug.log*
+yarn-debug.log*
+
+
+# editor folders
+.vscode/
+.idea/
+
+dist/
