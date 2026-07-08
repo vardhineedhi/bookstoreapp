@@ -9,9 +9,12 @@ require('dotenv').config()
 // middleware
 app.use(express.json());
 app.use(cors({
-    origin: ['http://localhost:5173','https://booknest-8-60yz.onrender.com'],
+    origin: [
+        "http://localhost:5173",
+        "https://bookstoreapp-frontend-0va9.onrender.com"
+    ],
     credentials: true
-}))
+}));
 
 // routes
 const bookRoutes = require('./src/books/book.route');
